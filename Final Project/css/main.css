@@ -1,0 +1,53 @@
+/* Style sheet
+Orange: EF773B
+Yellow: E2D74A
+Pink: CF215E
+Teal: 0A5F5C
+Brown: 2E2E30
+*/
+
+body {
+  font-family: 'Raleway', sans-serif;
+  color: #000;
+  line-height: 1.4;
+  background-size:cover;
+  font-size:14px;
+  margin: 0 auto;
+}
+
+header {
+
+}
+
+#wrapper {
+  	margin: 0 auto;
+}
+
+.container {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.banner {
+  /*display: flex;*/
+  display:block;
+  justify-content: center;
+}
+
+.banner img {
+
+}
+
+.banner h1 {
+  font-family: 'Monoton', cursive;
+  color: #EF773B;
+  font-size: 50px;
+}
+
+.brand-logo.right.logo {
+  font-family:'Monoton', cursive;
+}
+
+.homepage-button {
+  margin-top: 20px;
+}
