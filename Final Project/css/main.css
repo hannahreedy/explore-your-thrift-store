@@ -6,14 +6,20 @@ Teal: 0A5F5C
 Brown: 2E2E30
 */
 
-body {
-  font-family: 'Raleway', sans-serif;
-  color: #000;
-  line-height: 1.4;
-  background-size:cover;
-  font-size:14px;
-  margin: 0 auto;
+/* MEDIA QUERIES */
+@media (max-width: 440px;) {
+  #wrapper {
+    font-size: 2rem;
+    position: relative;
+    width: 100%;
+  }
+
+  
+
 }
+
+
+/* //////////////////////////////// */
 
 header {
 
@@ -24,16 +30,12 @@ header {
     width: 960px;
 }
 
-
-.banner {
-  width: inherit;
-  text-align: center;
-}
-
 .banner h1 {
   font-family: 'Monoton', cursive;
   color: #EF773B;
   font-size: 50px;
+  width: inherit;
+  text-align: center;
 }
 
 .brand-logo.right.logo {
@@ -42,4 +44,13 @@ header {
 
 .homepage-button {
   margin-top: 20px;
+}
+
+.right {
+  float: right;
+}
+
+.gallery h3 {
+  color: #CF215E;
+  font-size: 20px;
 }
