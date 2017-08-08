@@ -1,0 +1,26 @@
+{
+	"stores": {
+		"Consignment": {
+			"name": "Buffalo Exchange",
+			"image": "",
+			"rating": "1",
+			"priceRange": "2",
+			"address1": "1478 N Milwaukee Ave",
+			"address2": "",
+			"city": "Chicago",
+			"state": "IL",
+			"zipCode": "60622"
+		},
+		"Thrift Store": {
+			"name": "Goodwill",
+      "image": "",
+      "rating": "3",
+      "priceRange": "4",
+      "address1": "123 Yahoo Lane",
+      "address2": "Apt 2",
+      "city": "Chicago",
+      "state": "IL",
+      "zipCode": "60613"
+		}
+	}
+}
