@@ -21,21 +21,13 @@ header {
 
 #wrapper {
   	margin: 0 auto;
+    width: 960px;
 }
 
-.container {
-  width: 960px;
-  margin: 0 auto;
-}
 
 .banner {
-  /*display: flex;*/
-  display:block;
-  justify-content: center;
-}
-
-.banner img {
-
+  width: inherit;
+  text-align: center;
 }
 
 .banner h1 {
